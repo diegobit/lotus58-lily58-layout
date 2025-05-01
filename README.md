@@ -1,4 +1,4 @@
-# lotus58-lily58-keymaps
+# lotus58-lily58-layouts
 
 I was inspired by people's setups online, so I'm also sharing mine!
 
@@ -22,8 +22,8 @@ I have two split keyboards, one at home (Lotus58) and one at the office (Lily58)
 
 ## Special key definitions:
 
-| Label | Hold action | Tap action | Vial code |
-|-------|-------------|------------|-----------|
+| Label | Hold action | Tap action | Vial expression |
+|-------|-------------|------------|-----------------|
 | **`0x2b29`** | `Hyper` (⌃⇧⌘) | `Esc` | `MT(MOD_LCTL \| MOD_LSFT \| MOD_LGUI, KC_ESCAPE)` |
 | **`0xb28`** | — | `Hyper + Enter` (Alfred “Universal File Action”) | `C(S(G(KC_ENTER)))` |
 
