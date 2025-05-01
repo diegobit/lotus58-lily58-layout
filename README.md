@@ -4,10 +4,21 @@ I was inspired by people's setups online, so I'm also sharing mine!
 
 I have two split keyboards, one at home (Lotus58) and one at the office (Lily58), but the layout on the two is identical. The only difference is that my lily58 doesn't support moving the mouse cursor.
 
-![Layer0](img/layer0.png)
-![Layer1](img/layer1.png)
-![Layer2](img/layer2.png)
-![Layer3](img/layer3.png)
+#### Layer 0
+
+![Layer0](img/layer0.jpg)
+
+#### Layer 1 - symbols and movement
+
+![Layer1](img/layer1.jpg)
+
+#### Layer 2 - arrow keys for gaming
+
+![Layer2](img/layer2.jpg)
+
+#### Layer 3 - F13-F20 and mouse
+
+![Layer3](img/layer3.jpg)
 
 ## Special key definitions:
 
