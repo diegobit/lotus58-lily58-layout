@@ -25,7 +25,7 @@ I have two split keyboards, one at home (Lotus58) and one at the office (Lily58)
 | Label | Hold action | Tap action | Vial expression |
 |-------|-------------|------------|-----------------|
 | **`0x2b29`** | `Hyper` (⌃⇧⌘) | `Esc` | `MT(MOD_LCTL \| MOD_LSFT \| MOD_LGUI, KC_ESCAPE)` |
-| **`0xb28`** | — | `Hyper + Enter` (Alfred “Universal File Action”) | `C(S(G(KC_ENTER)))` |
+| **`0xb28`** | — | `Hyper + Enter` (Alfred "Universal File Action") | `C(S(G(KC_ENTER)))` |
 
 ## Walkthrough and choices
 
@@ -78,4 +78,4 @@ Take a look at the layers, then check this list.
 **lily58**:
 
 - Sea Picro (USB-C, RP2040, 16MB)
-- recognized by Vial as 'TODO'
+- recognized by Vial as 'liliums Lily58'
