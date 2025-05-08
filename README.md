@@ -71,7 +71,7 @@ Take a look at the layers, then check this list.
 **lotus58**:
 
 - Promicro RP2040
-- Encoder knob
+- Encoder knob and led display
 - TRRS Cable connection
 - recognized by Vial as 'Tweetys Wild Thinn tking Lotus 58 Glow (QMK)'
 
@@ -79,3 +79,4 @@ Take a look at the layers, then check this list.
 
 - Sea Picro (USB-C, RP2040, 16MB)
 - recognized by Vial as 'liliums Lily58'
+- Two led displays - No encoder knob
